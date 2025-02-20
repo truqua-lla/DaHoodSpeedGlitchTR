@@ -6,6 +6,11 @@ Da Hood oyunu için speed glitch macrosu
 Düşük sistemli donanımlar için geliştirdiğim bir macrodur. Terminal tabanlı olduğundan düşük ram ve işlemci gücü kaplar.
 Açık kaynaklıdır isteyen dilediği gibi kullanabilir.
 
+!!!ÖNEMLİ!!!
+pip install pynput
+Pynput kütüphanesine ve python yorumlayıcısına ihtiyac duyar.
+!!!ÖNEMLİ!!!
+
 Nasıl kullanılır?
 
 Zip içeriğinde 2 adet macro bulunmaktadır bunlar,
