@@ -43,6 +43,8 @@ S ve Xe aynı anda basılı tutuyoruz.
 
 Birkaç el pratiği sonrası speed glitchiniz çalışacaktır.
 
+Klavyesi ingilizce olanlar scriptteki ı yerine i yerleştirsinler.
+
 Beni tercih ettiğiniz için teşekür ederim
 
 Beni desteklemek veya herhangi bir sorunda bana danışmak istiyorsanız,
