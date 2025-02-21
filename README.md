@@ -1,5 +1,5 @@
 # DaHoodSpeedGlitchTR by truqua 
-Da Hood oyunu için speed glitch macrosu 
+Da Hood oyunu için speed glitch macrosu,
 
 İndirdiğiniz için teşekkür ederim.
 
