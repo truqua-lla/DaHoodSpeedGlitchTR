@@ -1,62 +1,55 @@
-# DaHoodSpeedGlitchTR by truqua 
-Da Hood oyunu için speed glitch macrosu,
+A speed glitch macro for the game Da Hood.
 
-İndirdiğiniz için teşekkür ederim.
+Thank you for downloading.
 
-Düşük sistemli donanımlar için geliştirdiğim bir macrodur. Terminal tabanlı olduğundan düşük ram ve işlemci gücü kaplar.
-Açık kaynaklıdır isteyen dilediği gibi kullanabilir.
+This macro is developed for low-end systems. Since it is terminal-based, it consumes minimal RAM and CPU power.
+It is open-source, and anyone is free to use or modify it.
 
-!!!ÖNEMLİ!!!
-pip install pynput
-Pynput kütüphanesine ve python yorumlayıcısına ihtiyac duyar.
-!!!ÖNEMLİ!!!
+!!! IMPORTANT !!!
+You need the pynput library and a Python interpreter.
+Install with: pip install pynput
+!!! IMPORTANT !!!
+How to use?
 
-Nasıl kullanılır?
+The zip file contains 2 macros:
 
-Zip içeriğinde 2 adet macro bulunmaktadır bunlar,
- XMacroWhilePressed: X tuşuna bastığınız sürece macro çalışır.
- XMacroTURNONOFF: X tuşunuz macroyu çalıştırmak icin aç kapat anahtarı görevi görür.
+    XMacroWhilePressed: The macro works as long as you hold the X key.
 
- Macro delay ayarlama,
- Her iki macroda da kişileştirilebilir delay bulunuyor. Macro çalışmadan önce kendi delayınızı girebilirsiniz. 
+    XMacroTURNONOFF: The X key acts as a toggle to turn the macro on and off.
 
-Macro özelliği,
+Macro delay settings
 
-basılıTut ı
-10 ms bekle
-serbestBırak ı
-10 ms bekle
-basılıTut o
-10 ms bekle
-serbestBırak o
+Both macros allow customizable delays. You can enter your preferred delay before the macro starts.
+How the macro works:
 
-şeklinde çalışmaktadır.
+press and hold 'ı'  
+wait 10 ms  
+release 'ı'  
+wait 10 ms  
+press and hold 'o'  
+wait 10 ms  
+release 'o'
 
+How to perform the Da Hood Speed Glitch:
 
-Da Hood Speed Glitch nasıl yapılır?
+Open the animations tab where dance packs are located and click on the animation called Greet.
+When the animation turns your character to exactly 90 degrees, quickly equip and unequip any item.
 
-Dans paketlerinin bulunduğu animasyonlar sekmesini acıp Greet adlı animasyona tıklıyoruz. Animasyon karakteri tam olarak 90 dereceye getirdiğinde herhangi bir itemi hızlı bir şekilde elimize alıp bırakıyoruz.
+For those without animation packs, during the maximum local position of Super Punch, quickly equip and unequip any item.
 
-Animasyon paketi olmayanlar için SuperPunchun yerel maksimum pozisyonunda elimize herhangi bir item alıp hızlıca bırakıyoruz
+These actions slightly lower your hitbox to the ground, which activates the glitch. Let's call this super position.
 
-Bu işlemler Glitching aktif olabilmesi için hitboxumuzu bir miktar yere indirir. Buna süper pozisyon diyelim.
+While in super position,
+hold down S and X at the same time.
 
-Süper pozisyon durumundayken,
+After a few tries, the speed glitch will start working.
 
-S ve Xe aynı anda basılı tutuyoruz.
+    Note: If your keyboard is in English layout, replace the Turkish 'ı' with 'i' in the script.
 
+Thanks for choosing me!
 
-Birkaç el pratiği sonrası speed glitchiniz çalışacaktır.
+If you'd like to support me or need help, feel free to contact me on Discord: truqua
 
-Klavyesi ingilizce olanlar scriptteki ı yerine i yerleştirsinler.
-
-Beni tercih ettiğiniz için teşekür ederim
-
-Beni desteklemek veya herhangi bir sorunda bana danışmak istiyorsanız,
-Discord: truqua
-
-Keyifli oynamalar dilerim :)
-
-
+Enjoy the game! :)
  
  
